@@ -1,8 +1,8 @@
 ## Hello, I'm Riku Kaartoaho! 👋
-- 👨‍🎓 Bachelor of Engineering at Metropolia University of Applied Sciences
-- 🤓 Video game, movie & music enthusiast
-- 🌱 Aiming for continous growth & improvement
-- 👯 Looking for collaborations and opportunities
+👨‍🎓 Bachelor of Engineering at Metropolia University of Applied Sciences  
+🤓 Video game, movie & music enthusiast  
+🌱 Aiming for continous growth & improvement  
+👯 Looking for collaborations and opportunities  
 
 
 
