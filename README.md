@@ -69,34 +69,9 @@ I'm a Software Developer and Enterpreneur building modern AI-powered solutions. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikudi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikudi&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rikudi&show_icons=true&theme=tokyonight&hide=stars,issues,contribs&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikudi&theme=tokyonight" alt="Top Languages" height="170" />
 </div>
-
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Modern AI Stack Template</h3>
-      <div align="center">
-        <a href="https://github.com/rikudi/next-fastAPI-postgres" target="_blank">
-          <img src="https://via.placeholder.com/500x300/4F46E5/FFFFFF?text=AI+Stack" width="100%" alt="Modern AI Stack"/>
-        </a>
-        <p>
-          <a href="https://github.com/rikudi/next-fastAPI-postgres" target="_blank">
-            <img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p><strong>Next.js, FastAPI, PostgreSQL, OpenAI</strong> - A powerful template for building AI-powered applications with modern tech stack.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📫 Let's Connect!
-
-I'm always interested in new opportunities, collaborations, or just a friendly chat about technology. Feel free to reach out to me through any of the platforms above!
 
 <!-- 
 **rikudi/rikudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
