@@ -3,7 +3,6 @@
   
   # Riku Kaartoaho
 
-  [![Website](https://img.shields.io/badge/Website-rikukaartoaho.fi-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rikukaartoaho.fi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-rikukaartoaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikukaartoaho)
   [![GitHub](https://img.shields.io/badge/GitHub-rikudi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rikudi)
   
