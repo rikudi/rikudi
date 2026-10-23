@@ -1,12 +1,8 @@
-<div align="center">
-  <img src="https://github.com/rikudi.png" width="120px" style="border-radius:50%"/>
-  # Riku Kaartoaho
-  <p>Software Developer | Vibe Engineer</p>
-</div>
+
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer and Enterpreneur building modern AI-powered solutions. Undergrad in Engineering at Metropolia University of Applied Sciences.
+Software Developer and Enterpreneur building with AI. Undergrad in Engineering at Metropolia University of Applied Sciences.
 
 ## 🛠️ Tech Stack
 
