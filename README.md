@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://github.com/rikudi.png" width="120px" style="border-radius:50%"/>
-  
   # Riku Kaartoaho
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-rikukaartoaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikukaartoaho)
-  [![GitHub](https://img.shields.io/badge/GitHub-rikudi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rikudi)
-  
   <p>Software Developer | Vibe Engineer</p>
 </div>
 
